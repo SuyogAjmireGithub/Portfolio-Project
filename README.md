@@ -8,7 +8,6 @@ This project focuses on cleaning and transforming data related to Nashville hous
 - [Usage](#usage)
 - [Data Cleaning Steps](#data-cleaning-steps)
 - [Importing Data (Optional)](#importing-data-optional)
-- [License](#license)
 
 ## Overview
 
